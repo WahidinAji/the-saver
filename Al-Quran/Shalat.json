@@ -1,61 +1,85 @@
 {
-  "id": 1,
-  "title": "Shalat (doa)",
-  "description": "shalat adalah bagian dari kewajiban bagi seorang Muslim sebagai hamba Allah Subhanallahu Wa Ta 'ala",
-  "slug": "shalat",
-  "image": null,
-  "index": [
-    "2:45, 9:103, 51:18, 70:22-23, 75:31, 96:10, 108:2",
+  "data":[
     {
-      "surah_name": "Al-Baqarah",
-      "surah_id": 2,
-      "ayah": 45,
-      "juz": 1,
-      "audio": ""
-    },
-    {
-      "surah_name": "At-Taubah",
-      "surah_id": 9,
-      "ayah": 103,
-      "juz": 11,
-      "audio": ""
-    },
-    {
-      "surah_name": "Aż-Żāriyāt",
-      "surah_id": 51,
-      "ayah": 22,
-      "juz": 26,
-      "audio": ""
+      "id": 1,
+      "title": "Shalat (doa)",
+      "description": "shalat adalah bagian dari kewajiban bagi seorang Muslim sebagai hamba Allah Subhanallahu Wa Ta 'ala",
+      "slug": "shalat",
+      "image": null,
+      "index": [
+        "2:45, 9:103, 51:18, 70:22-23, 75:31, 96:10, 108:2",
+        {
+          "surah_name": "Al-Baqarah",
+          "surah_id": 2,
+          "ayah": 45,
+          "juz": 1,
+          "audio": ""
+        },
+        {
+          "surah_name": "At-Taubah",
+          "surah_id": 9,
+          "ayah": 103,
+          "juz": 11,
+          "audio": ""
+        },
+        {
+          "surah_name": "Aż-Żāriyāt",
+          "surah_id": 51,
+          "ayah": 22,
+          "juz": 26,
+          "audio": ""
+        }, 
+        {
+          "surah_name": "Aż-Żāriyāt",
+          "surah_id": 51,
+          "ayah": 23,
+          "juz": 26,
+          "audio": ""
+        },
+        {
+          "surah_name": "Al-Qiyāmah",
+          "surah_id": 75,
+          "ayah": 31,
+          "juz": 29,
+          "audio": ""
+        },
+        {
+          "surah_name": "Al-'Alaq",
+          "surah_id": 96,
+          "ayah": 10,
+          "juz": 30,
+          "audio": ""
+        },
+        {
+          "surah_name": "Al-Kauśar",
+          "surah_id": 108,
+          "ayah": 2,
+          "juz": 30,
+          "audio": ""
+        }
+      ],
+      "status": "parent",
+      "topic_id": null
     }, 
     {
-      "surah_name": "Aż-Żāriyāt",
-      "surah_id": 51,
-      "ayah": 23,
-      "juz": 26,
-      "audio": ""
-    },
-    {
-      "surah_name": "Al-Qiyāmah",
-      "surah_id": 75,
-      "ayah": 31,
-      "juz": 29,
-      "audio": ""
-    },
-    {
-      "surah_name": "Al-'Alaq",
-      "surah_id": 96,
-      "ayah": 10,
-      "juz": 30,
-      "audio": ""
-    },
-     {
-      "surah_name": "Al-Kauśar",
-      "surah_id": 108,
-      "ayah": 2,
-      "juz": 30,
-      "audio": ""
+      "id": 1,
+      "title": "Shalat (doa) - perindah dirimu dengannya",
+      "description": "Perindah (hiasi) dirimu dengannya",
+      "slug": "shalat-perindah-dirimu-dengannya",
+      "image": null,
+      "index": [
+        {
+          "surah_name": "Al-Árāf",
+          "surah_id": 7,
+          "ayah": 31,
+          "juz": 8,
+          "audio": ""
+        }
+      ],
+      "status": "child",
+      "topic_id": 1
     }
+
   ],
-  "status": "parent",
-  "topic_id": null
+  
 }
